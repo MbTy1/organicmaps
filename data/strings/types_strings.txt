@@ -61,6 +61,7 @@
     eu = Aire Garraioa
     fi = Köysirata
     fr = Transport par câble aérien
+    he = דרך אווירית
     it = Impianto a fune
     ja = 索道
     mr = हवाई मार्ग
@@ -88,6 +89,7 @@
     eu = Teleferikoa
     fi = Kabiinihissi
     fr = Téléphérique
+    he = רכבל
     hi = आकाशीय रज्जुमार्ग
     it = Teleferica
     ja = ロープウェイ
@@ -228,6 +230,7 @@
     eu = Teleferiko geltokia
     fi = Köysirata-asema
     fr = Remontées mécaniques
+    he = תחנת דרך אווירית
     hu = Felvonóállomás
     id = Stasiun kereta gantung
     it = Stazione
@@ -261,6 +264,7 @@
     et = Õhuruumi infrastruktuur
     eu = Aire azpiegitura
     fr = Equipement aérien
+    he = תשתית מרחב אווירי
     it = Infrastruttura aeroportuale
     ja = 空路
     mr = हवाई आधार संरचना
@@ -507,6 +511,7 @@
     et = Terminal
     eu = Terminala
     fi = Terminaali
+    he = מסוף נוסעים
     it = Terminal aeroportuale
     ja = 空港ターミナルビル
     mr = टर्मिनल
@@ -579,6 +584,7 @@
     fa = مرکز هنری
     fi = Taidekeskus
     fr = Centre artistique
+    he = מרכז לאומנויות
     hi = कला केंद्र
     hu = Művészeti központ
     id = Pusat kesenian
@@ -990,6 +996,7 @@
     fa = صرافی
     fi = Rahanvaihto
     fr = Bureau de change
+    he = המרת מטבע
     hi = विनिमय कार्यालय
     hu = Pénzváltó
     id = Pertukaran valuta
@@ -1351,7 +1358,7 @@
     fa = گذرگاه طاقدار
     fi = Arcade
     fr = Salle de jeux d'arcade
-    he = מִקמֶרֶת
+    he = מכונות משחק
     hu = Játékterem
     id = Arkade
     it = Arcade
@@ -1879,6 +1886,7 @@
     fa = دندان پزشکی
     fi = Hammaslääkäri
     fr = Dentiste
+    he = רופא שיניים
     hi = दाँतों का डॉक्टर
     hu = Fogorvos
     id = Dokter gigi
@@ -2044,7 +2052,7 @@
     fa = مرکز نمایشگاه
     fi = Näyttelykeskus
     fr = Centre d'exposition
-    he = מרכז תערוכה
+    he = מרכז תערוכות
     hu = Kiállítási Központ
     id = Pusat pameran
     it = Centro espositivo
@@ -2288,6 +2296,7 @@
     fa = حمل و نقل
     fi = Lautta
     fr = Terminal de ferry
+    he = מסוף מעבורת
     hi = नौका टर्मिनल
     hu = Komp
     id = Terminal
@@ -2362,6 +2371,7 @@
     et = Toiduväljak
     eu = Jantokia
     fr = Aire de restauration
+    he = איזור הסעדה
     hi = फूड कोर्ट
     it = Area ristorazione
     ja = フードコート
@@ -2581,6 +2591,7 @@
     fa = شکارگاه
     fi = Metsästyspaikka
     fr = Mirador
+    he = עמדת ציד
     hi = शिकार स्टैंड
     hu = Vadászles
     id = Lokasi berburu
@@ -2822,7 +2833,7 @@
     fa = فروشگاه
     fi = Kauppatori
     fr = Marché
-    he = זירת מסחר
+    he = שוק
     hi = बाजार
     hu = Piac
     id = Pasar
@@ -2943,6 +2954,7 @@
     fa = خانه سالمندان
     fi = Hoitokoti
     fr = Maison de retraite
+    he = דיור מוגן
     hi = नर्सिंग होम
     hu = Idősek otthona
     id = Panti Jompo
@@ -3723,6 +3735,7 @@
     eu = Tenplua
     fa = گردشگری
     fi = Buddhalainen temppeli
+    he = מקדש בודאיסטי
     hi = बौद्ध मंदिर
     hu = Templom
     id = Kuil
@@ -3803,7 +3816,7 @@
     fa = کلیسای عیسی مسیح مقدسین آخرالزمان
     fi = Myöhempien Aikojen Pyhien Jeesuksen Kristuksen Kirkko
     fr = Église de Jésus-Christ des Saints des Derniers Jours
-    he = כנסיית ישוע המשיח של קדושי אחרון הימים
+    he = כנסיה מורמונית
     hu = Utolsó Napok Szentjeinek Jézus Krisztus Egyháza
     id = Gereja Yesus Kristus dari Orang-Orang Suci Zaman Akhir
     it = Chiesa di Gesù Cristo dei Santi degli Ultimi Giorni
@@ -3843,7 +3856,7 @@
     fa = سال مملکت شاهدان یهوه
     fi = Jehovan todistajien valtakunnansali
     fr = Salle du Royaume des Témoins de Jéhovah
-    he = כנסיה של עדי יהוה
+    he = כנסית עדי יהוה
     hu = Jehova Tanúinak Királysága terem
     id = Aula Kerajaan Saksi-Saksi Yehuwa
     it = Sala del Regno dei Testimoni di Geova
@@ -3882,6 +3895,7 @@
     eu = Tenplua
     fa = گردشگری
     fi = Hindutemppeli
+    he = מקדש הינדי
     hi = मन्दिर
     hu = Hindu templom
     id = Kuil
@@ -4000,6 +4014,7 @@
     fa = گردشگری
     fi = Šintopyhäkkö
     fr = Sanctuaire
+    he = מקדש שינטו
     hi = शिंतो मंदिर
     hu = Sinto szentély
     id = Kuil
@@ -4263,6 +4278,7 @@
     eu = Liburu trukea
     fi = Kirjahylly
     fr = Microbibliothèque
+    he = החלפת ספרים
     hi = सार्वजनिक किताबों की अलमारी
     hu = Nyilvános könyvespolc
     id = Rak Buku
@@ -4709,7 +4725,7 @@
     eu = Kartoia
     fi = Pahvi
     fr = Carton
-    he = קרטון
+    he = לוחות קרטון
     it = Cartone
     mr = पुठ्ठा
     nl = Karton
@@ -4804,6 +4820,7 @@
     eu = Edateko kartoiak
     fi = Kartonki
     fr = Briques alimentaires
+    he = קרטון
     it = Tetrapak
     mr = पेय कार्टन
     nl = Drankverpakkingen
@@ -4860,6 +4877,7 @@
     et = Hoidmispaagi prügila
     fi = Jäteveden tyhjennyspiste
     fr = Station de vidange
+    he = תחנת פסולת
     hi = सेनेटरी डंप स्टेशन
     it = Scarico acque nere
     nl = Caravantoilet cassette-leegpunt
@@ -5034,7 +5052,7 @@
     fa = حمام عمومی
     fi = Julkinen kylpylä
     fr = Bain public
-    he = אמבטיה ציבורית
+    he = בית מרחץ ציבורי
     hu = Közfürdő
     id = Pemandian umum
     it = Bagno pubblico
@@ -5475,6 +5493,7 @@
     eu = Kondoiak saltzeko makina
     fi = Kondomiautomaatti
     fr = Distributeur de préservatifs
+    he = מכונה לממכר קונדומים
     hi = कंडोम वितरक मशीन
     it = Distributore di profilattici
     mr = कंडोम विक्रीयंत्र
@@ -5501,6 +5520,7 @@
     fa = ماشین فروش نوشیدنی
     fi = Juoma-automaatti
     fr = Distributeur de boissons
+    he = מכונה לממכר שתיה
     hi = पेय वितरक
     hu = Italautomata
     id = Mesin penjual minuman
@@ -5536,6 +5556,7 @@
     eu = Janaria saltzeko makina
     fi = Ruoka-automaatti
     fr = Distributeur d'aliments
+    he = מכונה לממכר מזון
     hi = खाद्य वितरक
     it = Distributore automatico di alimenti
     mr = अन्न विक्रीयंत्र
@@ -5558,7 +5579,7 @@
     eu = Egunkariak saltzeko makina
     fi = Sanomalehtiautomaatti
     fr = Distributeur de journaux
-    he = מתקן עיתונים
+    he = מכונה לממכר עיתונים
     hi = समाचार पत्र वितरक
     it = Distributore automatico di giornali
     mr = वृत्तपत्र विक्रीयंत्र
@@ -5665,6 +5686,7 @@
     eu = Gozokiak saltzeko makina
     fi = Makeisautomaatti
     fr = Distributeur de bonbons
+    he = מכונה לממכר ממתקים
     hi = मिठाई वितरक
     it = Distributore automatico di dolciumi
     mr = मिठाई विक्रीयंत्र
@@ -5686,6 +5708,7 @@
     et = Ekskremendikottide automaat
     eu = Kaka poltsak saltzeko makina
     fr = Distributeur de sacs à excréments
+    he = מכונה לממכר שקיקקי
     hi = मलमूत्र थैली वितरक
     it = Distributore di sacchetti per escrementi
     mr = मलमूत्र पिशव्या विक्रीयंत्र
@@ -5711,6 +5734,7 @@
     eu = Paketeen aldagela
     fi = Pakettilokero
     fr = Consigne automatique pour colis
+    he = לוקר חבילות
     hi = पार्सल भंड़ार
     it = Punto di ritiro
     mr = पार्सल लॉकर
@@ -5742,7 +5766,7 @@
     fa = بازرسی وسایل نقلیه
     fi = Ajoneuvon tarkastus
     fr = Centre de contrôle technique
-    he = לבדיקה טכנית
+    he = בדיקת רכב
     hu = Járművek műszaki vizsgáztatása
     id = Pemeriksaan kendaraan
     it = Ispezione del veicolo
@@ -5777,6 +5801,7 @@
     et = Tankimisautomaat
     fi = Bensa-automaatti
     fr = Pompe à carburants
+    he = משאבת תדלוק
     hi = ईंधन डिस्पेंसर
     it = Pompa di rifornimento
     mr = इंधन विक्रीयंत्र
@@ -5802,6 +5827,7 @@
     fa = دامپزشکی
     fi = Eläinlääkäri
     fr = Docteur vétérinaire
+    he = וטרינר
     hi = पशु चिकित्सक
     hu = Állatorvos
     id = Dokter Hewan
@@ -5842,6 +5868,7 @@
     fa = سطل زباله
     fi = Roskakori
     fr = Poubelle
+    he = פח אשפה
     hi = कूडेदान
     hu = Szemetes
     id = Kotak sampah
@@ -5881,6 +5908,7 @@
     fa = زباله دانی
     fi = Roska
     fr = Déchets
+    he = מיכל אשפה
     hi = कचरे के डिब्बे
     hu = Szemét
     id = Sampah
@@ -5916,6 +5944,7 @@
     et = Jäätmete üleandmise jaam
     fi = Jätteiden vastaanottoasema
     fr = Station de transfert de déchets
+    he = תחנת העברת פסולת
     hi = कचरा स्थानांतरण स्टेशन
     it = Centro trasferimento rifiuti
     mr = कचरा हस्तांतरण केंद्र
@@ -5946,6 +5975,7 @@
     fa = شیر آب قابل شرب
     fi = Vesipiste
     fr = Point d’eau
+    he = נקודת מילוי מכלי מים
     hi = पानी की टंकी पुनः भरने का स्थान
     hu = Vízvételi pont
     id = Titik Air
@@ -5980,6 +6010,7 @@
     eu = Hesia
     fi = Este
     fr = Barrière
+    he = מחסום
     it = Barriera
     ja = 障害物
     mr = अडथळा
@@ -6010,6 +6041,7 @@
     fa = بلوک
     fi = Este
     fr = Bloc
+    he = חסום
     hu = Blokk
     id = Blok
     it = Blocco
@@ -6086,6 +6118,7 @@
     fa = کنترل مرزی
     fi = Rajavalvonta
     fr = Contrôle aux frontières
+    he = בקרת גבולות
     hu = Határállomás
     id = Gerbang perbatasan
     it = Controllo di frontiera
@@ -6121,6 +6154,7 @@
     eu = Katea
     fi = Ketju
     fr = Chaîne
+    he = שרשרת
     it = Catena
     mr = साखळी
     nl = Ketting
@@ -6145,6 +6179,7 @@
     eu = Bizikleta-hesia
     fi = Polkupyöräeste
     fr = Barrière à vélos
+    he = מחסום אופניים
     it = Barriera per biciclette
     ja = バリカー
     mr = सायकल अडथळा
@@ -6297,6 +6332,7 @@
     fa = ورودی
     fi = Sisäänkäynti
     fr = Entrée
+    he = כניסה
     hu = Bejárat
     id = Pintu masuk
     it = Ingresso
@@ -6331,6 +6367,7 @@
     eu = Hesia
     fi = Aita
     fr = Clôture
+    he = גדר
     it = Steccato
     ja = フェンス
     mr = कुंपण
@@ -6361,6 +6398,7 @@
     fa = ورودی
     fi = Portti
     fr = Porte
+    he = שער
     hu = Kapu
     id = Gerbang
     it = Cancello
@@ -6395,6 +6433,7 @@
     eu = Estaldura
     fi = Pensasaita
     fr = Haie
+    he = גדר חיה
     it = Siepe
     ja = 生垣
     mr = झुडुपांचे कुंपण
@@ -6436,6 +6475,7 @@
     fa = اسانسور
     fi = Nostopuomi
     fr = Barrière levante
+    he = שער מתרומם
     hu = Sorompó
     id = Polisi tidur
     it = Sbarra
@@ -6470,6 +6510,7 @@
     eu = Euste-horma
     fi = Tukimuuri
     fr = Mur de soutènement
+    he = קיר תמך
     it = Muro di sostegno
     ja = 擁壁
     mr = संधारक भिंत
@@ -6536,7 +6577,7 @@
     fa = گردان
     fi = Kääntöportti
     fr = Tourniquet
-    he = קרוסלת
+    he = שער מסתובב
     hu = Forgókorlát
     id = Pintu putar
     it = Tornello
@@ -6577,6 +6618,7 @@
     fa = اسانسور
     fi = Kääntöpuomi
     fr = Barrière tournante
+    he = שער נדנדה
     hu = Sorompó
     id = Polisi tidur
     it = Barriera ferroviaria
@@ -6614,6 +6656,7 @@
     fa = گیشه عوارضی
     fi = Tietulliasema
     fr = Poste de péage
+    he = תא אגרה
     hu = Díjfizető kapu
     id = Gerbang tol
     it = Casello di pedaggio
@@ -6647,6 +6690,7 @@
     eu = Horma
     fi = Muuri
     fr = Mur
+    he = חומה
     hi = दीवार
     it = Muro
     ja = 壁
@@ -6672,6 +6716,7 @@
     eu = Muga
     fi = Raja
     fr = Frontière
+    he = גבול
     it = Confine
     ja = 境界線
     mr = सीमा
@@ -6696,6 +6741,7 @@
     eu = Muga administratiboa
     fi = Hallinnollinen raja
     fr = Frontière administrative
+    he = גבול ניהולי
     it = Confine amministrativo
     ja = 行政境界
     mr = प्रशासकीय सीमा
@@ -6721,6 +6767,7 @@
     eu = Herrialdeko muga
     fi = Valtakunnanraja
     fr = Frontière nationale
+    he = גבול לאומי
     it = Confine nazionale
     mr = राष्ट्रीय सीमा
     nl = Natiegrens
@@ -6743,6 +6790,7 @@
     et = Piirkondlik piir
     eu = Eskualdeko muga
     fr = Frontière régionale
+    he = גבול אזורי
     it = Confine regionale
     mr = प्रादेशिक सीमा
     nl = Regiogrens
@@ -6774,6 +6822,7 @@
     fa = پارک ملی
     fi = Kansallispuisto
     fr = Parc national
+    he = פארק לאומי
     hu = Nemzeti park
     id = Taman Nasional
     it = Parco nazionale
@@ -6915,6 +6964,7 @@
     fa = ساختمان
     fi = Rakennus
     fr = Bâtiment
+    he = בנין
     hi = भवन
     hu = Épület
     id = Gedung
@@ -7037,6 +7087,7 @@
     fa = ایستگاه قطار
     fi = Rautatieasema
     fr = Gare ferroviaire
+    he = תחנת רכבת
     hi = रेलवे स्टेशन
     hu = Vasútállomás
     id = Rel kereta api
@@ -7071,6 +7122,7 @@
     eu = Biltegia
     fi = Varasto
     fr = Entrepôt
+    he = מחסן
     hi = मालगोदाम
     it = Magazzino
     mr = वखार
@@ -7101,7 +7153,7 @@
     fa = ﺮﺒﻗ
     fi = Hauta
     fr = Tombe
-    he = רבק
+    he = קבר
     hi = कब्र
     hu = Sír
     id = Kuburan
@@ -7717,7 +7769,7 @@
     fa = قفل ساز
     fi = Lukkoseppä
     fr = Serrurier
-    he = פורץ מנעולים
+    he = מנעולן
     hu = Lakatos
     id = Tukang kunci
     it = Fabbro
