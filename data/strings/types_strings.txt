@@ -24393,6 +24393,7 @@
     fa = اپاراتی
     fi = Rengashuolto
     fr = Réparation de pneus
+    he = פנצ'ריה
     hi = पहियों की मरम्मत
     hu = Gumiszerviz
     id = Tambal ban
@@ -24429,6 +24430,7 @@
     et = Haagiselamute müük
     fi = Matkailu- ja retkeilyautokauppias
     fr = Concessionnaire de caravanes et camping-cars
+    he = סוחר בקראוונים
     hi = कैंपर डीलर
     nl = Caravan en camper verkoper
     pl = Sklep z karawanami i kamperami
@@ -24536,6 +24538,7 @@
     fa = فروشگاه
     fi = Suklaakauppa
     fr = Chocolatier
+    he = חנות שוקולדים
     hi = चॉकलेट की दुकान
     hu = Csokoládébolt
     id = Toko Cokelat
@@ -24575,6 +24578,7 @@
     fa = لباس فروشی
     fi = Vaatekauppa
     fr = Boutique de vêtements
+    he = חנות בגדים
     hi = कपड़े की दुकान
     hu = Ruhabolt
     id = Toko baju
@@ -24614,6 +24618,7 @@
     fa = فروشگاه
     fi = Kahvikauppa
     fr = Boutique de cafés
+    he = בית קפה
     hi = कॉफी की दुकान
     hu = Kávébolt
     id = Toko kopi
@@ -24653,6 +24658,7 @@
     fa = فروشگاه
     fi = Tietokonekauppa
     fr = Magasin d'informatique
+    he = חנות מחשבים
     hi = कंप्यूटर की दुकान
     hu = Számítógépüzlet
     id = Toko komputer
@@ -24732,6 +24738,7 @@
     fa = فروشگاه
     fi = Lähikauppa
     fr = Supérette
+    he = חנות נוחות
     hi = सुविधा की दुकान
     hu = Csemegebolt
     id = Mini market
@@ -24770,6 +24777,7 @@
     fa = فروشگاه چاپ و تکثیر
     fi = Painotalo
     fr = Boutique de photocopies
+    he = חנות דפוס ושעתוק
     hi = फ़ोटोकॉपी की दुकान
     hu = Fénymásoló
     id = Fotokopi
@@ -24809,6 +24817,7 @@
     fa = فروشگاه
     fi = Kosmetiikka
     fr = Produits de beauté
+    he = חנות קוסמטיקה
     hi = सौंदर्य प्रसाधन की दुकान
     hu = Kozmetikumok
     id = Kosmetik
@@ -24891,7 +24900,7 @@
     fa = ﯽﺷﻭﺮﻓ ﻪﯾﺬﻏﺍ ﻩﺎﮕﺷﻭﺮﻓ
     fi = Herkkukauppa
     fr = Épicerie fine
-    he = תוינדעמ תונח
+    he = מעדניה
     hi = मिठाई की दुकान
     hu = Csemegebolt
     id = Toko Kue
@@ -24930,6 +24939,7 @@
     fa = مرکز خرید
     fi = Tavaratalo
     fr = Grand magasin
+    he = חנות כל-בו גדולה
     hi = डिपार्टमेंट स्टोर
     hu = Áruház
     id = Toko serba ada
@@ -24971,6 +24981,7 @@
     fa = فروشگاه
     fi = Rautakauppa
     fr = Magasin de bricolage
+    he = חנות לשיפוץ הבית
     hi = लौह वस्तुओं की दुकान
     hu = Barkácsáruház
     id = Toko perangkat keras
@@ -25009,6 +25020,7 @@
     fa = خشک شویی
     fi = Kuivapesula
     fr = Nettoyage à sec
+    he = ניקוי יבש
     hi = ड्राय वॉश
     hu = Ruhatisztító
     id = Cuci Kering
@@ -25047,6 +25059,7 @@
     fa = فروشگاه
     fi = Elektroniikka
     fr = Magasin d'électroménager
+    he = חנות מוצרי חשמל
     hi = इलेक्ट्रॉनिक्स की दुकान
     hu = Elektronika
     id = Elektronik
@@ -25085,6 +25098,7 @@
     fa = فروشگاه
     fi = Erotiikkaliike
     fr = Boutique érotique
+    he = חנות אירוטיקה
     hi = कामुक दुकान
     hu = Erotikus bolt
     id = Toko Erotik
@@ -25122,6 +25136,7 @@
     fa = فروشگاه
     fi = Kangaskauppa
     fr = Magasin de tissus
+    he = חנות בדים
     hi = कपड़े की दुकान
     hu = Szövetbolt
     id = Toko Kain
@@ -25243,6 +25258,7 @@
     fa = فروشگاه
     fi = Floristi
     fr = Fleuriste
+    he = ממכר פרחים
     hi = फूलवाले की दुकान
     hu = Virágos
     id = Tukang bunga
@@ -25282,6 +25298,7 @@
     fa = مسئول تشییع جنازه
     fi = Hautaustoimisto
     fr = Pompes funèbres
+    he = מנהלי הלוויות
     hi = अंतिम संस्कार के निदेशक
     hu = Temetkezési vállalkozó
     id = Direktur Pemakaman
@@ -25321,6 +25338,7 @@
     fa = فروشگاه
     fi = Huonekalukauppa
     fr = Magasin de meubles
+    he = חנות רהיטים
     hi = फर्नीचर की दुकान
     hu = Bútoráruház
     id = Toko mebel
@@ -25401,7 +25419,7 @@
     fa = فروشگاه گاز
     fi = Kaasukauppa
     fr = Vente de gaz
-    he = חנות דלק
+    he = חנות גז
     hu = Gázbolt
     id = Toko gas
     it = Deposito di gas
@@ -25440,6 +25458,7 @@
     fa = فروشگاه
     fi = Lahjatavaraliike
     fr = Boutique de souvenirs
+    he = חנות מתנות
     hi = उपहार की दुकान
     hu = Ajándékbolt
     id = Toko hadiah
@@ -25478,6 +25497,7 @@
     fa = فروشگاه
     fi = Vihanneskauppias
     fr = Primeur
+    he = ירקן
     hi = फल-सब्ज़ियों की दुकान
     hu = Zöldséges
     id = Penjual sayuran
@@ -25558,6 +25578,7 @@
     fa = ارایشگاه
     fi = Kampaamo
     fr = Coiffeur
+    he = מספרה
     hi = नाई
     hu = Fodrász
     id = Penata rambut
@@ -25595,7 +25616,7 @@
     fa = ﺭﺍﺰﻓﺍ ﺖﺨﺳ ﻩﺎﮕﺷﻭﺮﻓ
     fi = Rautakauppa
     fr = Quincaillerie
-    he = ןיינב ירמוחל תונח
+    he = חנות לחומרי בניין
     hi = लौह वस्तुओं की दुकान
     hu = Barkácsüzlet
     it = Ferramenta
@@ -25632,7 +25653,7 @@
     fa = ﯽﺘﺷﺍﺪﻬﺑ ﯽﯾﺍﺬﻏ ﺩﺍﻮﻣ ﻩﺎﮕﺷﻭﺮﻓ
     fi = Terveysruokakauppa
     fr = Magasin d'alimentation diététique
-    he = תואירב ןוזמ תונח
+    he = חנות מזון בריאות
     hi = स्वस्थ भोजन की दुकान
     hu = Egészséges élelmiszerek boltja
     id = Toko Makanan Kesehatan
@@ -25758,7 +25779,7 @@
     fa = ﯽﮕﻧﺎﺧ ﻡﺯﺍﻮﻟ ﻩﺎﮕﺷﻭﺮﻓ
     fi = Taloustavarakauppa
     fr = Magasin d'articles ménagers
-    he = תיב ילכל תונח
+    he = חנות כלי בית
     hi = घरेलू सामान की दुकान
     hu = Háztartási bolt
     id = Toko Peralatan Rumah Tangga
@@ -25798,6 +25819,7 @@
     fa = طلا فروشی
     fi = Korukauppa
     fr = Bijouterie
+    he = חנות תכשיטים
     hi = ज्वैलरी
     hu = Ékszerüzlet
     id = Perhiasan
@@ -25833,6 +25855,7 @@
     fa = دَکهِ
     fi = Kioski
     fr = Kiosque
+    he = קיוסק
     hi = गुमटी
     hu = Trafik
     id = Kios
@@ -25873,7 +25896,7 @@
     fa = ﻪﻧﺎﺧﺰﭙﺷﺁ ﻩﺎﮕﺷﻭﺮﻓ
     fi = Keittiökauppa
     fr = Magasin de cuisine
-    he = םיחבטמ תונח
+    he = חנות מטבחים
     hi = रसोई की दुकान
     hu = Konyhafelszerelési áruház
     id = Toko Dapur
@@ -25913,6 +25936,7 @@
     fa = لباس شویی
     fi = Pesula
     fr = Laverie
+    he = מכבסה
     hi = धोबी की दुकान
     hu = Mosoda
     id = Londri
@@ -25952,6 +25976,7 @@
     fa = فروشگاه
     fi = Ostoskeskus
     fr = Centre commercial
+    he = קניון
     hi = शॉपिंग मॉल
     hu = Bevásárlóközpont
     it = Centro commerciale
@@ -25989,6 +26014,7 @@
     fa = سالن ماساژ
     fi = Hierontahuone
     fr = Salon de massage
+    he = מכון עיסוי
     hi = मालिश घर
     hu = Masszázsszalon
     id = Tempat Pijat
@@ -26028,6 +26054,7 @@
     fa = فروشگاه
     fi = Elektroniikkakauppa
     fr = Magasin de téléphonie mobile
+    he = חנות מכשירי סלולר
     hi = सेल फोन की दुकान
     hu = Mobiltelefon üzlet
     id = Toko telepon
@@ -26067,6 +26094,7 @@
     fa = فروشگاه
     fi = Rahan lainaaja
     fr = Magasin
+    he = הלוואות כספים
     hi = हवलदार
     hu = Pénzkölcsönző
     id = Pemberi Pinjaman Uang
@@ -26105,6 +26133,7 @@
     fa = فروشگاه
     fi = Moottoripyöräliike
     fr = Magasin de motos
+    he = חנות אופנועים
     hi = मोटरसाइकिल की दुकान
     hu = Motorkerékpár üzlet
     id = Toko Sepeda Motor
@@ -26187,6 +26216,7 @@
     fa = فروشگاه
     fi = Levykauppa
     fr = Disquaire
+    he = חנות תקליטים
     hi = रिकॉर्ड की दुकान
     hu = Lemezbolt
     id = Toko musik
@@ -26226,6 +26256,7 @@
     fa = فروشگاه
     fi = Soittimien kauppa
     fr = Magasin d'instruments de musique
+    he = חנות כלי נגינה
     hi = संगीत वाद्ययंत्र
     hu = Hangszerbolt
     id = Toko Alat Musik
@@ -26264,6 +26295,7 @@
     fa = فروشگاه
     fi = Lehtikioski
     fr = Kiosque à journaux
+    he = דוכן עיתונים
     hi = अख़बार की दुकान
     hu = Újságárus
     id = Kios Surat Kabar
@@ -26302,6 +26334,7 @@
     fa = فروشگاه
     fi = Optikko
     fr = Opticien
+    he = אופטיקה
     hi = ऑप्टिशियन
     hu = Optika
     id = Toko kacamata
@@ -26422,7 +26455,7 @@
     fa = ﯽﻨﯾﺮﯿﺷ
     fi = Leivonnainen
     fr = Pâtisserie
-    he = הפאמ
+    he = מגדניה
     hi = पेस्ट्री का दुकान
     hu = Cukrászda
     id = Kue-kue
@@ -26461,6 +26494,7 @@
     fa = عتیقه فروشی
     fi = Panttilainaamo
     fr = Prêteur sur gages
+    he = משכנתאות
     hi = महाजन
     hu = Zálogház
     id = Rumah Gadai
@@ -26499,6 +26533,7 @@
     fa = فروشگاه
     fi = Eläinkauppa
     fr = Animalerie
+    he = חנות בעלי חיים
     hi = पालतू जानवर की दुकान
     hu = Házikedvenc-üzlet
     id = Toko hewan
@@ -26579,6 +26614,7 @@
     fa = فروشگاه
     fi = Valokuvakauppa
     fr = Matériel de photographie
+    he = חנות צילום
     hi = छायाचित्रण की दुकान
     hu = Fotóüzlet
     id = Studio Foto
@@ -26701,6 +26737,7 @@
     fa = فروشگاه
     fi = Kalakauppias
     fr = Poissonnier
+    he = חנות דגים
     hi = समुद्री भोजन की दुकान
     hu = Halkereskedő
     id = Penjual Ikan
@@ -26857,6 +26894,7 @@
     fa = لوازم التحریر
     fi = Kirjoitustarvikekauppa
     fr = Papeterie
+    he = חנות כלי כתיבה
     hi = लेखन सामग्री की दुकान
     hu = Papír-írószer bolt
     id = Toko Alat Tulis
@@ -26894,6 +26932,7 @@
     fa = فروشگاه
     fi = Supermarketti
     fr = Supermarché
+    he = סופרמרקט
     hi = सुपरमार्केट
     hu = Szupermarket
     it = Supermercato
@@ -26929,6 +26968,7 @@
     fa = سالن خالکوبی
     fi = Tatuointiliike
     fr = Salon de tatouage
+    he = מכון קעקועים
     hi = टैटू पार्लर
     hu = Tetoválószalon
     id = Tempat Tato
@@ -26968,6 +27008,7 @@
     fa = فروشگاه
     fi = Teekauppa
     fr = Boutique de thés
+    he = חנות תה
     hi = चाय की दुकान
     hu = Teabolt
     id = Toko teh
@@ -27006,6 +27047,7 @@
     fa = فروشگاه
     fi = Lippumyymälä
     fr = Billetterie
+    he = חנות כרטיסים
     hi = टिकट की दुकान
     hu = Jegyiroda
     id = Tempat penjualan karcis
@@ -27045,6 +27087,7 @@
     fa = فروشگاه
     fi = Lelukauppa
     fr = Magasin de jouets
+    he = חנות צעצועים
     hi = खिलौनों की दुकान
     hu = Játékbolt
     id = Toko mainan
@@ -27083,6 +27126,7 @@
     fa = اژانس مسافرتی
     fi = Matkatoimisto
     fr = Agence de voyages
+    he = סוכנות נסיעות
     hi = यात्रा एजेंसी
     hu = Utazási iroda
     id = Agen Perjalanan Wisata
@@ -27121,6 +27165,7 @@
     fa = فروشگاه
     fi = Rengasliike
     fr = Magasin de pneus
+    he = פנצ'ריה
     hi = पहियों की दुकान
     hu = Gumiszaküzlet
     id = Toko Ban
@@ -27160,6 +27205,7 @@
     fa = فروشگاه
     fi = Halpakauppa
     fr = Bazar
+    he = חנות כל-בו
     hi = छोटी वस्तुओं की सस्ती दूकान
     hu = Vegyeskereskedés
     id = Toko Kelontong
@@ -27486,7 +27532,7 @@
     fa = ﻥﺎﮐﺩﻮﮐ ﻩﺎﮕﺷﻭﺮﻓ
     fi = Lasten kauppa
     fr = Magasin de puériculture
-    he = םידליל תונח
+    he = חנות מוצרי תינוקות
     hi = बच्चों के सामान की दुकान
     hu = Bababolt
     id = Toko anak-anak
@@ -27984,7 +28030,7 @@
     fa = ﯽﮑﺷﺰﭘ ﻡﺯﺍﻮﻟ
     fi = Lääketieteellisiä tarvikkeita
     fr = Materiel médical
-    he = יאופר דויצ
+    he = חנות ציוד רפואי
     hi = चिकित्सा की आपूर्ति
     hu = Orvosi eszközök
     id = Suplai medis
@@ -28026,7 +28072,7 @@
     fa = ﯽﯾﺍﺬﻏ ﯼﺎﻫ ﻞﻤﮑﻣ
     fi = Ravintolisät
     fr = Suppléments nutritionnels
-    he = הנוזת יפסות
+    he = חנות תוספי תזונה
     hi = पोषण की खुराक
     hu = Táplálékkiegészítők
     id = Suplemen Nutrisi
@@ -28067,7 +28113,7 @@
     fa = ﺪﻨﮐ ﯽﻣ ﮓﻧﺭ
     fi = Maalit
     fr = Magasin de peinture
-    he = םיעבצ
+    he = חנות צבעים
     hi = पेंट की दुकान
     hu = Festékbolt
     id = Cat
@@ -28108,7 +28154,7 @@
     fa = ﯼﺯﺎﺳﺮﻄﻋ
     fi = Hajuvedet
     fr = Parfumerie
-    he = תמַשְׂבָּ
+    he = חנות בשמים
     hi = सुगंध सामग्री की दुकान
     hu = Illatszerbolt
     id = Wewangian
@@ -28149,7 +28195,7 @@
     fa = ﯽﻃﺎﯿﺧ ﻡﺯﺍﻮﻟ
     fi = Ompelutarvikkeet
     fr = Mercerie
-    he = הריפת דויצ
+    he = חנות לציוד תפירה
     hi = सिलाई आपूर्ति की दुकान
     hu = Varrókellékek boltja
     id = Perlengkapan Jahit
@@ -28315,7 +28361,7 @@
     fa = ﺖﻋﺎﺳ
     fi = Kellot
     fr = Montres
-    he = םינועש
+    he = חנות שעונים
     hi = घड़ियाँ
     hu = Órabolt
     id = Jam tangan
@@ -28524,6 +28570,7 @@
     fa = ورزش
     fi = Yleisurheilu
     fr = Athlétisme
+    he = אתלטיקה
     hi = एथलेटिक्स
     hu = Atlétika
     id = Atletik
@@ -28644,6 +28691,7 @@
     fa = بسکتبال
     fi = Koripallo
     fr = Basket-ball
+    he = כדורסל
     hi = बास्केटबॉल
     hu = Kosárlabda
     id = Bola basket
@@ -28872,7 +28920,7 @@
     fa = ورزش های سوارکاری
     fi = Hevosurheilu
     fr = Sport hippique
-    he = רכיבה
+    he = רכיבת סוסים
     hu = Lovas sportok
     id = Olahraga Berkuda
     it = Equitazione
@@ -29079,6 +29127,7 @@
     fa = غواصی
     fi = Sukellus
     fr = Plongée sous-marine
+    he = אתר צלילה
     hu = Búvárkodás
     id = Selam scuba
     it = Immersioni in subacquea
@@ -29884,6 +29933,7 @@
     fa = گردشگری
     fi = Taideteos
     fr = Œuvre
+    he = יצירת אומנות
     hi = कलाकृति
     hu = Szobor
     id = Pariwisata
@@ -29922,6 +29972,7 @@
     fa = گردشگری
     fi = Taideteos
     fr = Œuvre
+    he = יצירת אמנות אדריכלית
     hu = Műalkotás
     id = Pariwisata
     it = Opera d'arte
@@ -29960,6 +30011,7 @@
     fa = گردشگری
     fi = Taideteos
     fr = Œuvre
+    he = ציור
     hu = Műalkotás
     id = Pariwisata
     it = Dipinto
@@ -29997,6 +30049,7 @@
     fa = گردشگری
     fi = Taideteos
     fr = Œuvre
+    he = פסל אומנותי
     hu = Szobor
     id = Pariwisata
     it = Scultura
@@ -30034,6 +30087,7 @@
     fa = گردشگری
     fi = Taideteos
     fr = Œuvre
+    he = פסל
     hi = प्रतिमा
     hu = Szobor
     id = Pariwisata
@@ -30071,6 +30125,7 @@
     eu = Erakarpen turistikoa
     fa = گردشگری
     fi = Nähtävyys
+    he = אטרקציה תיירותית
     hi = पर्यटन स्थल
     hu = Látnivaló
     id = Atraksi
@@ -30155,6 +30210,7 @@
     fa = محل چادر زنی
     fi = Retkeily
     fr = Camping
+    he = אתר מחנאות
     hu = Kemping
     id = Perkemahan
     it = Campeggio
@@ -30192,6 +30248,7 @@
     eu = Karabana gunea
     fi = Asuntovaunupaikka
     fr = Aire de camping-car
+    he = חניון קרוואנים
     hi = कारवां स्थल
     hu = Karaván pihenő
     id = Lokasi perkemahan
@@ -30275,6 +30332,7 @@
     fa = گالری
     fi = Nähtävyydet
     fr = Galerie d'art
+    he = גלריה לאמנות
     hi = आर्ट गैलरी
     hu = Túrizmus
     id = Pemandangan
@@ -30313,6 +30371,7 @@
     fa = هتل
     fi = Majatalo
     fr = Maison d'hôtes
+    he = בית הארחה
     hi = अतिथि गृह
     hu = Vendégház
     id = Wisma tamu
@@ -30349,6 +30408,7 @@
     fa = هتل
     fi = Hostelli
     fr = Auberge de jeunesse
+    he = אכסניה
     hi = शयनागार
     it = Ostello
     ja = ホステル
@@ -30379,6 +30439,7 @@
     fa = هتل
     fi = Hotelli
     fr = Hôtel
+    he = מלון
     hi = होटल
     hu = Szálloda
     it = Hotel
@@ -30499,7 +30560,7 @@
     fa = تابلو راهنما
     fi = Tienviitta
     fr = Poteaux indicateurs
-    he = מנחה
+    he = מדריך
     hu = Útmutató
     id = Tongkat petunjuk jalan
     it = Guida
